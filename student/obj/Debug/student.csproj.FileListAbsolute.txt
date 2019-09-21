@@ -1,0 +1,20 @@
+D:\class program\student\student\bin\Debug\student.exe.config
+D:\class program\student\student\bin\Debug\student.exe
+D:\class program\student\student\bin\Debug\student.pdb
+D:\class program\student\student\obj\Debug\student.csprojAssemblyReference.cache
+D:\class program\student\student\obj\Debug\student.Properties.Resources.resources
+D:\class program\student\student\obj\Debug\student.Student.resources
+D:\class program\student\student\obj\Debug\student.csproj.GenerateResource.cache
+D:\class program\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+D:\class program\student\student\obj\Debug\student.exe
+D:\class program\student\student\obj\Debug\student.pdb
+E:\c#\day5\student\bin\Debug\student.exe.config
+E:\c#\day5\student\bin\Debug\student.exe
+E:\c#\day5\student\bin\Debug\student.pdb
+E:\c#\day5\student\obj\Debug\student.csprojAssemblyReference.cache
+E:\c#\day5\student\obj\Debug\student.Properties.Resources.resources
+E:\c#\day5\student\obj\Debug\student.Student.resources
+E:\c#\day5\student\obj\Debug\student.csproj.GenerateResource.cache
+E:\c#\day5\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+E:\c#\day5\student\obj\Debug\student.exe
+E:\c#\day5\student\obj\Debug\student.pdb
